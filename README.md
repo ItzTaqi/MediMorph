@@ -3,9 +3,11 @@ Medimorph – Evolve the Way You Manage Your Medication
 Medimorph is a powerful, secure, and user-centered medication management platform built to support users in every step of their health journey. Whether you're managing one prescription or navigating complex treatment regimens, Medimorph provides intelligent tools, real-world insights, and advanced security to make medication management simple, informed, and personalized.
 
 🌐 Why Medimorph?
+
 Medication is more than just a schedule — it's a process that affects your mind, body, and daily life. Medimorph was created to transform that process. It doesn't just remind you when to take your medication — it helps you understand it, track your progress, learn from others, and stay connected to your broader health ecosystem.
 
-🔐 Robust Security & Biometric Login
+🔐 Robust Security & Biometric Login:
+
 We take your privacy seriously. Medimorph uses end-to-end encryption and supports biometric login (Face ID, fingerprint recognition) to ensure only you can access your data. Every user also receives a unique API key, allowing for secure data syncing across systems without compromising privacy.
 
 -> Biometric login for fast, secure access
